@@ -1,2 +1,3 @@
 # c-language
 This repository will contains c language programs,problems,projects etc.....
+Explore more files to grab the logics in c programming language 
